@@ -1,0 +1,5 @@
+.idea
+.gradle
+NodeApp/node_modules
+out
+build
